@@ -1,0 +1,6 @@
+C:\CodeProjects\FileHandling1\bin\Debug\FileHandling1.exe.config
+C:\CodeProjects\FileHandling1\bin\Debug\FileHandling1.exe
+C:\CodeProjects\FileHandling1\bin\Debug\FileHandling1.pdb
+C:\CodeProjects\FileHandling1\obj\Debug\FileHandling1.csprojAssemblyReference.cache
+C:\CodeProjects\FileHandling1\obj\Debug\FileHandling1.exe
+C:\CodeProjects\FileHandling1\obj\Debug\FileHandling1.pdb
